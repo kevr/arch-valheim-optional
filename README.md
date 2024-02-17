@@ -2,12 +2,14 @@
 
 A modpack for Arch Valheim players
 
+To request more mods, ask kevr in IRC.
+
 ## Setup
 
 1. Retrieve the latest `AppImage` at https://github.com/ebkr/r2modmanPlus/releases
-2. Run the `AppImage` and update r2modman if prompted
 2. `chmod +x /path/to/r2modman-X.X.XX.AppImage`
-3. `ln -s r2modman-X.X.XX.AppImage ~/.local/bin/r2modman`
+3. Run the `AppImage` and update r2modman if prompted. Any update may change the original AppImage version.
+4. `ln -s /path/to/r2modman-X.X.XX.AppImage ~/.local/bin/r2modman`
 
 Now, you can launch r2modman via ~/.local/bin/r2modman.
 
