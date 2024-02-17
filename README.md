@@ -50,3 +50,5 @@ running them in order for them to be properly used at all.
 ### Not part of the pack
 - Azumatt-AzuClock-1.0.2
     - A clock of in-game time
+- Pineapple-TorchesEternal-0.3.0
+    - Free fuel for fires and torches
