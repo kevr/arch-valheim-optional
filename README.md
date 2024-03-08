@@ -1,8 +1,10 @@
-# ArchValheim
+# ArchValheimOptional
 
-A modpack for Arch Valheim players
+A modpack containing optional mods for Arch Valheim players
 
 To request more mods, ask kevr in IRC.
+
+Any mod, other than *BepInEx* or the *ArchValheim* modpack, can be disabled in r2modman if you wish to selectively use a subset of the optional mods in this pack.
 
 ## Setup
 
@@ -29,26 +31,8 @@ purposefully.
 
 ## Required Mods
 
-- denikson-BepInExPack_Valheim-5.4.2202
-    - Plugin bootstrapper needed by all mods
-- Azumatt-AzuAntiCheat-4.3.2
-    - Checks/enforceds mods used by the client
-- Advize-PlantEverything-1.16.2
-    - Plant more than normal: raspberry bushes, Yggdrasil trees, etc
-- Kevver-StayInYourBiome-1.0.2
-    - Keep creatures in their own biomes regardless of boss kills
-
-These mods are required by the client because all clients need to be
-running them in order for them to be properly used at all.
+To obtain the minimal required mods for the Arch Valheim server, use the [ArchValheim](https://valheim.thunderstore.io/packages/Kevver/ArchValheim) modpack. This modpack depends on *ArchValheim*, so either one can be installed seamlessly.
 
 ## Optional Mods
 
-### Part of the pack
-- ComfyMods-ComfySigns-1.6.0
-    - Makes your signs look better
-
-### Not part of the pack
-- Azumatt-AzuClock-1.0.2
-    - A clock of in-game time
-- Pineapple-TorchesEternal-0.3.0
-    - Free fuel for fires and torches
+This pack, *ArchValheimOptional*, contains all supported mods on the Arch Valheim server, including a dependency on the *ArchValheim* required modpack.
