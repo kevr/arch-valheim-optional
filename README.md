@@ -31,7 +31,7 @@ purposefully.
 
 ## Required Mods
 
-To obtain the minimal required mods for the Arch Valheim server, use the [ArchValheim](https://valheim.thunderstore.io/packages/Kevver/ArchValheim) modpack. This modpack depends on *ArchValheim*, so either one can be installed seamlessly.
+To obtain the minimal required mods for the Arch Valheim server, use the [ArchValheim](https://valheim.thunderstore.io/package/Kevver/ArchValheim) modpack. This modpack depends on *ArchValheim*, so either one can be installed seamlessly.
 
 ## Optional Mods
 
